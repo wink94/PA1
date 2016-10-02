@@ -94,7 +94,7 @@ Partial Class Form1
         '
         Me.lblDisplay.AutoSize = True
         Me.lblDisplay.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblDisplay.Location = New System.Drawing.Point(278, 147)
+        Me.lblDisplay.Location = New System.Drawing.Point(170, 143)
         Me.lblDisplay.Name = "lblDisplay"
         Me.lblDisplay.Size = New System.Drawing.Size(72, 24)
         Me.lblDisplay.TabIndex = 1
